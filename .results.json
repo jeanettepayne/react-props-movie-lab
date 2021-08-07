@@ -5,29 +5,29 @@
     "passes": 14,
     "pending": 0,
     "failures": 0,
-    "start": "2021-08-07T16:58:45.494Z",
-    "end": "2021-08-07T16:58:45.560Z",
-    "duration": 66
+    "start": "2021-08-07T20:51:32.321Z",
+    "end": "2021-08-07T20:51:32.361Z",
+    "duration": 40
   },
   "tests": [
     {
       "title": "renders at least one <MovieCard /> component",
       "fullTitle": "<MovieShowcase /> renders at least one <MovieCard /> component",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "uses the poster prop as a background image, rendering only the necessary HTML",
       "fullTitle": "<CardFront /> uses the poster prop as a background image, rendering only the necessary HTML",
-      "duration": 7,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,21 +90,21 @@
     {
       "title": "correctly renders the genres prop as comma seperated strings",
       "fullTitle": "<CardBack /> correctly renders the genres prop as comma seperated strings",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 6,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -115,21 +115,21 @@
     {
       "title": "renders at least one <MovieCard /> component",
       "fullTitle": "<MovieShowcase /> renders at least one <MovieCard /> component",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -178,7 +178,7 @@
     {
       "title": "uses the poster prop as a background image, rendering only the necessary HTML",
       "fullTitle": "<CardFront /> uses the poster prop as a background image, rendering only the necessary HTML",
-      "duration": 7,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,21 +192,21 @@
     {
       "title": "correctly renders the genres prop as comma seperated strings",
       "fullTitle": "<CardBack /> correctly renders the genres prop as comma seperated strings",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 6,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
